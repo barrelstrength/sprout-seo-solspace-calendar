@@ -1,0 +1,43 @@
+{
+  "name": "barrelstrength/sprout-seo-solspace-calendar",
+  "description": "Sprout SEO Metadata and XML Sitemap support for Solspace Calendar Events",
+  "type": "craft-plugin",
+  "version": "1.0.3",
+  "keywords": [
+    "craft",
+    "craftcms",
+    "craft cms",
+    "sprout seo",
+    "sprout sitemaps"
+  ],
+  "support": {
+    "docs": "https://sprout.barrelstrengthdesign.com/docs/seo",
+    "issues": "https://github.com/barrelstrength/sprout-seo-solspace-calendar/issues"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Barrel Strength",
+      "homepage": "https://www.barrelstrengthdesign.com/"
+    }
+  ],
+  "require": {
+    "craftcms/cms": "^3.1.0",
+    "barrelstrength/sprout-seo": "^4.0.0-beta.39"
+  },
+  "autoload": {
+    "psr-4": {
+      "barrelstrength\\sproutseosolspacecalendar\\": "src/"
+    }
+  },
+  "extra": {
+    "name": "Sprout SEO for Solspace Calendar",
+    "handle": "sprout-seo-solspace-calendar",
+    "developer": "Barrel Strength",
+    "developerUrl": "https://barrelstrengthdesign.com",
+    "documentationUrl": "https://sprout.barrelstrengthdesign.com/docs/seo",
+    "changelogUrl": "https://raw.githubusercontent.com/BarrelStrength/sprout-seo-solspace-calendar/master/CHANGELOG.md",
+    "downloadUrl": "https://github.com/BarrelStrength/sprout-seo-solspace-calendar/archive/master.zip",
+    "class": "barrelstrength\\sproutseosolspacecalendar\\sproutseosolspacecalendar"
+  }
+}
