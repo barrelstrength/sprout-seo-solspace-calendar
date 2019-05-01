@@ -54,7 +54,7 @@ class SolspaceCalendarEvent extends UrlEnabledSectionType
     /**
      * @param $id
      *
-     * @return array|\craft\base\Model|\craft\models\EntryType[]|null
+     * @return CalendarModel|null
      */
     public function getFieldLayoutSettingsObject($id)
     {

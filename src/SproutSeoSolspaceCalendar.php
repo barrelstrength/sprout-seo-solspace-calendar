@@ -4,9 +4,6 @@ namespace barrelstrength\sproutseosolspacecalendar;
 
 use barrelstrength\sproutbaseuris\events\RegisterUrlEnabledSectionTypesEvent;
 use barrelstrength\sproutbaseuris\services\UrlEnabledSections;
-use barrelstrength\sproutseo\events\RegisterSchemasEvent;
-use barrelstrength\sproutseo\services\Schema;
-use barrelstrength\sproutseosolspacecalendar\integrations\sproutseo\schema\SolspaceCalendarEventSchema;
 use barrelstrength\sproutseosolspacecalendar\integrations\sproutseo\sectiontypes\SolspaceCalendarEvent;
 use craft\base\Plugin;
 use yii\base\Event;
