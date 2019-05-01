@@ -2,7 +2,7 @@
   "name": "barrelstrength/sprout-seo-solspace-calendar",
   "description": "Sprout SEO Metadata and XML Sitemap support for Solspace Calendar Events",
   "type": "craft-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "craft",
     "craftcms",
