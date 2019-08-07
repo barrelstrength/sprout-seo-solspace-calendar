@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2 - 2019-08-06
+
+### Changed
+- Updated barrelstrength/sprout-seo requirement to v4.0.0
+
 ## 1.0.1 - 2019-04-30
 
 ### Changed
