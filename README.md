@@ -1,3 +1,9 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+This code can be referenced if you need to create a custom module adding Sprout SEO support for custom Elements, like Solspace Calendar Events.
+
+----
+
 # Sprout SEO for Solspace Calendar
 
 Metadata and XML Sitemap support for Solspace Calendar Events
